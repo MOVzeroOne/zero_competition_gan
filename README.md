@@ -2,7 +2,7 @@
 Optimizing min-max games using duality gap objective. </br>
 This code is based upon (Generative Minimization Networks: Training GANs Without Competition; arXiv:2103.12685)
 
-Function is $3x^{2} - y^{2} + 4xy$. </br>
+Function is $$3x^{2} - y^{2} + 4xy$$. </br>
 Optimizing using the duality gap objective. </br> 
 ![](duality_gap_objective.gif)
 </br> 
