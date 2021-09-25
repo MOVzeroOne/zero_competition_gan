@@ -14,4 +14,4 @@ With the duality gap objective </br>
 ![](duality_modality.gif)
 </br>
 With the min-max objective. Original GAN:(Generative Adversarial Nets arXiv:1406.2661) </br>
-![](duality_modality.gif)
+![](gan_modality.gif)
